@@ -1,0 +1,2 @@
+# The-IMDB-dataset-coursework-Jupyter-Notebook
+Coursework from Deep Learning With Python by Francois Chollet. We will work with the IMDB dataset: a set of 50,000 highly polarized reviews from the Internet Movie Database. They’re split into 25,000 reviews (sequences of words have been turned into sequences of integers, where each integer stands for a specific word in a dictionary), for training and 25,000 reviews for testing, each set consisting of 50% negative and 50% positive reviews.
